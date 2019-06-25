@@ -1,1 +1,1 @@
-<<<<<<< HEAD
+myreact
